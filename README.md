@@ -4,6 +4,8 @@ Este repositório apresenta uma análise exploratória de dados educacionais com
 
 A análise foi desenvolvida em Python, utilizando técnicas de agregação, cálculo de indicadores e visualização de dados para transformar informações brutas em insights relevantes sobre o ensino superior.
 
+---
+
 ### 🔍 O que foi analisado
 
 - Comparação entre número de ingressantes e concluintes por curso, permitindo identificar diferenças entre entrada e conclusão
@@ -13,6 +15,8 @@ A análise foi desenvolvida em Python, utilizando técnicas de agregação, cál
 - Comparação entre modalidades de ensino (EAD vs Presencial)
 - Identificação de cursos e cidades com maior concentração de estudantes
 
+---
+
 ### 📈 Visualizações geradas
 
 - Gráfico de evasão por curso
@@ -21,10 +25,14 @@ A análise foi desenvolvida em Python, utilizando técnicas de agregação, cál
 
 - Gráfico de distribuição de estudantes por município
 
+---
+
 ### 📷 Exemplos de visualizações
 
-![Evasão por curso](evasao_por_curso.png)
-![Ingressantes vs Concluintes](ingressantes_concluintes_curso.png)
+![Evasão por curso](images/evasao_por_curso_gráfico.png)
+![Ingressantes vs Concluintes](images/ingressantes_e_concluintes_por_curso_grafico.png)
+
+---
 
 ### 📊 Principais insights
 
@@ -33,6 +41,8 @@ A análise foi desenvolvida em Python, utilizando técnicas de agregação, cál
 - Alguns municípios concentram grande parte da demanda por esses cursos
 
 - A modalidade EAD representa uma parcela relevante das matrículas, indicando mudanças no perfil do ensino superior
+
+---
 
 ### 🛠️ Tecnologias utilizadas
 
@@ -45,6 +55,8 @@ A análise foi desenvolvida em Python, utilizando técnicas de agregação, cál
   - seaborn
 
 - Jupyter Notebook
+
+---
 
 ### 🎯 Objetivo do projeto
 
